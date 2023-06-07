@@ -1,2 +1,2 @@
 # Tugas-Genius-Education
-Sebagai tempat menaruh tugas proyek genius education
+Membuat aplikasi penyimpanan nomor telepon(kontak) sederhana
